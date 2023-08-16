@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<packageId>be.nogenepack</packageId>
+	<author>BE</author>
+	<name>No Genepacks</name>
+	<description>Removes genepacks from the quest reward pool.</description>
+	<url/>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+</ModMetaData>
